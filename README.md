@@ -10,7 +10,7 @@ Welcome to the UI/UX design project for a modern login and sign-up flow, develop
 
 ## Tools Used
 
-- Figma: [Link to Figma](https://www.figma.com/file/gUUh1Hs0lzlBDhHtNJfptk/CodSoft-Task1?type=design&node-id=0%3A1&mode=design&t=IDTBFXp30RYFZ0k1-1)
+- Figma: [Link to Figma](https://www.figma.com/file/gUUh1Hs0lzlBDhHtNJfptk/CodSoft-Task1?type=design&mode=design&t=AaaDe58QLgHDvH67-1)
 - The design was created using Figma, a versatile design and prototyping tool. Figma's collaborative features allowed for efficient teamwork and iterative design improvements.
 
 ## Key Features
